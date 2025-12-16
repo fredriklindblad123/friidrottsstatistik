@@ -1,0 +1,77 @@
+{
+    "updated_at": "2025-12-16",
+    "athletes": [
+        {
+            "id": "1",
+            "name": "Anna Andersson",
+            "birth_year": 2009,
+            "club": "IFK Göteborg Friidrott",
+            "results": [
+                {
+                    "event": "800m",
+                    "result": "2:15.50",
+                    "date": "2024-07-15",
+                    "venue": "Slottsskogsvallen",
+                    "competition": "Sommarspelen",
+                    "indoor": false
+                },
+                {
+                    "event": "1500m",
+                    "result": "4:45.20",
+                    "date": "2024-08-20",
+                    "venue": "Ullevi",
+                    "competition": "DM",
+                    "indoor": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Erik Eriksson",
+            "birth_year": 2008,
+            "club": "IFK Göteborg Friidrott",
+            "results": [
+                {
+                    "event": "High Jump",
+                    "result": "1.85",
+                    "date": "2024-06-10",
+                    "venue": "Sollentuna",
+                    "competition": "Say O",
+                    "indoor": false
+                }
+            ]
+        }
+    ],
+    "club_records": [
+        {
+            "event": "800m",
+            "age_class": "F16",
+            "result": "2:12.00",
+            "holder": "Lisa Larsson",
+            "year": 2018,
+            "indoor": false
+        },
+        {
+            "event": "800m",
+            "age_class": "F17",
+            "result": "2:10.50",
+            "holder": "Karin Karlsson",
+            "year": 2015,
+            "indoor": false
+        }
+    ],
+    "qualification_standards": [
+        {
+            "competition": "USM 2025",
+            "age_class": "F16",
+            "event": "800m",
+            "limit": "2:18.00"
+        },
+        {
+            "competition": "USM 2025",
+            "age_class": "F16",
+            "event": "1500m",
+            "limit": "4:50.00"
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Track & Field Stats</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Oswald:wght@500;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <nav>
+    <div class="container">
+      <span class="logo">Track Stats</span>
+      <div class="nav-links">
+        <a href="#" onclick="switchTab('dashboard')" id="nav-dashboard" class="active">Dashboard</a>
+        <a href="#" onclick="switchTab('records')" id="nav-records">Klubbrekord</a>
+        <a href="#" onclick="switchTab('national')" id="nav-national">Sv/Världen</a>
+        <a href="#" onclick="switchTab('athletes')" id="nav-athletes">Atleter</a>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <!-- DASHBOARD VIEW -->
+    <div id="view-dashboard" class="view-section active">
+      <header>
+        <h1>Välkommen till IFK Göteborg Friidrott</h1>
+        <div class="subtitle">Statistik, rekord och personliga mål.</div>
+      </header>
+
+      <div class="grid">
+        <!-- Road to USM -->
+        <div class="card">
+          <h2 style="color: var(--color-accent-gold);">Road to USM</h2>
+          <div style="margin-bottom: 1rem;">
+            <div class="bar-label">
+              <span>800m (F16)</span>
+              <span style="color: var(--color-text-secondary);">2:18.00</span>
+            </div>
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: 85%;"></div>
+            </div>
+            <div style="text-align: right; font-size: 0.75rem; color: #4ade80; margin-top: 4px;">85% - Nära!
+            </div>
+          </div>
+          <div>
+            <div class="bar-label">
+              <span>1500m (F16)</span>
+              <span style="color: var(--color-text-secondary);">4:50.00</span>
+            </div>
+            <div class="progress-bar">
+              <div class="progress-fill" style="width: 60%;"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Club Pulse -->
+        <div class="card">
+          <h2>Senaste Klubbrekorden</h2>
+          <div class="record-item">
+            <div>
+              <div style="font-weight: bold;">800m</div>
+              <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Lisa Larsson (F16)
+              </div>
+            </div>
+            <div class="record-time">2:12.00</div>
+          </div>
+          <div class="record-item">
+            <div>
+              <div style="font-weight: bold;">Höjdhopp</div>
+              <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Erik Eriksson (P17)
+              </div>
+            </div>
+            <div class="record-time">1.85</div>
+          </div>
+        </div>
+
+        <!-- The Chase -->
+        <div class="card chase-card">
+          <h2>The Chase</h2>
+          <div style="font-size: 0.875rem; color: var(--color-text-secondary); margin-bottom: 1rem;">Nästa mål
+            för Anna Andersson (F16)</div>
+          <div class="chase-event">F16 800m</div>
+          <div class="chase-time">2:12.00</div>
+          <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Klubbrekord (Lisa Larsson)
+          </div>
+          <div class="chase-badge">Du är 3.50 sekunder ifrån!</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ATHLETES VIEW -->
+    <div id="view-athletes" class="view-section">
+
+      <!-- Athlete List Sub-View -->
+      <div id="athlete-list-view">
+        <header>
+          <h1>Atleter</h1>
+          <div class="subtitle">Sök och hitta profiler</div>
+        </header>
+
+        <div style="margin-bottom: 2rem;">
+          <input type="text" placeholder="Sök efter namn..."
+            style="width: 100%; padding: 1rem; background: var(--color-bg-card); border: 1px solid #334155; color: white; border-radius: 0.5rem; font-size: 1rem; font-family: var(--font-main);">
+        </div>
+
+        <div class="grid">
+          <!-- Athlete Card 1 -->
+          <div class="card" onclick="showAthleteProfile('1')"
+            style="cursor: pointer; transition: transform 0.2s; border-left: 4px solid var(--color-accent);">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <div
+                style="width: 50px; height: 50px; background: #334155; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white;">
+                AA</div>
+              <div>
+                <h3 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Anna Andersson</h3>
+                <div style="color: var(--color-text-secondary); font-size: 0.875rem;">Född 2009 | F16</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Athlete Card 2 -->
+          <div class="card" style="cursor: pointer; opacity: 0.7;">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <div
+                style="width: 50px; height: 50px; background: #334155; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white;">
+                EE</div>
+              <div>
+                <h3 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Erik Eriksson</h3>
+                <div style="color: var(--color-text-secondary); font-size: 0.875rem;">Född 2008 | P17</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Athlete Card 3 -->
+          <div class="card" style="cursor: pointer; opacity: 0.7;">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <div
+                style="width: 50px; height: 50px; background: #334155; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white;">
+                LL</div>
+              <div>
+                <h3 style="font-size: 1.1rem; margin-bottom: 0.25rem;">Lisa Larsson</h3>
+                <div style="color: var(--color-text-secondary); font-size: 0.875rem;">Född 2008 | F17</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Individual Profile Sub-View (Hidden by default) -->
+      <div id="athlete-profile-view" style="display: none;">
+        <button onclick="showAthleteList()"
+          style="background: none; border: none; color: var(--color-text-secondary); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; cursor: pointer;">
+          &larr; Tillbaka till listan
+        </button>
+
+        <div class="profile-header">
+          <div class="avatar-placeholder">AA</div>
+          <div class="profile-info">
+            <h1>Anna Andersson</h1>
+            <div class="profile-meta">Född 2009 | F16 | IFK Göteborg Friidrott</div>
+          </div>
+        </div>
+
+        <div class="grid">
+          <!-- Progression Chart -->
+          <div class="card" style="grid-column: span 2;">
+            <h2>Utvecklingskurva (800m)</h2>
+            <div class="chart-container">
+              <!-- Simulated SVG Chart -->
+              <svg width="100%" height="100%" viewBox="0 0 800 300">
+                <!-- Grid lines -->
+                <line x1="50" y1="50" x2="750" y2="50" class="chart-grid" />
+                <line x1="50" y1="125" x2="750" y2="125" class="chart-grid" />
+                <line x1="50" y1="200" x2="750" y2="200" class="chart-grid" />
+
+                <!-- Axis Labels (Y - Time) -->
+                <text x="10" y="55" fill="#64748b" font-size="12">2:10</text>
+                <text x="10" y="130" fill="#64748b" font-size="12">2:20</text>
+                <text x="10" y="205" fill="#64748b" font-size="12">2:30</text>
+
+                <!-- Axis Labels (X - Year) -->
+                <text x="100" y="280" fill="#64748b" font-size="12">2021</text>
+                <text x="300" y="280" fill="#64748b" font-size="12">2022</text>
+                <text x="500" y="280" fill="#64748b" font-size="12">2023</text>
+                <text x="700" y="280" fill="#64748b" font-size="12">2024</text>
+
+                <!-- The Data Line -->
+                <!-- Points: 2021 (2:35), 2022 (2:28), 2023 (2:20), 2024 (2:15.5) -->
+                <!-- Mapping Y: 2:10=50, 2:40=275. Approx scale. -->
+                <polyline points="110,240 310,190 510,125 710,95" class="chart-line" />
+
+                <!-- Data Dots -->
+                <circle cx="110" cy="240" class="chart-dot" />
+                <circle cx="310" cy="190" class="chart-dot" />
+                <circle cx="510" cy="125" class="chart-dot" />
+                <circle cx="710" cy="95" class="chart-dot" />
+
+                <!-- Tooltips (simulated text) -->
+                <text x="710" y="75" fill="var(--color-accent)" font-weight="bold" text-anchor="middle">PB
+                  2:15.50</text>
+              </svg>
+            </div>
+          </div>
+
+          <!-- Personal Bests List -->
+          <div class="card">
+            <h2>Personbästa</h2>
+            <div class="record-item">
+              <div>
+                <div style="font-weight: bold;">800m</div>
+                <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Slottsskogsvallen (2024)</div>
+              </div>
+              <div class="record-time">2:15.50</div>
+            </div>
+            <div class="record-item">
+              <div>
+                <div style="font-weight: bold;">1500m</div>
+                <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Ullevi (2024)</div>
+              </div>
+              <div class="record-time">4:45.20</div>
+            </div>
+            <div class="record-item">
+              <div>
+                <div style="font-weight: bold;">2000m</div>
+                <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Åby (2023)</div>
+              </div>
+              <div class="record-time">6:55.10</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- NATIONAL/INTL RECORDS VIEW -->
+    <div id="view-national" class="view-section">
+      <header>
+        <h1>Sverige & Världen</h1>
+        <div class="subtitle">Rekord och topplistor</div>
+      </header>
+
+      <div class="card">
+        <h2>Världsrekord (Exempeldata)</h2>
+        <div class="record-item">
+          <div>
+            <div style="font-weight: bold;">Stavhopp (Män)</div>
+            <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Mondo Duplantis (SWE)
+            </div>
+          </div>
+          <div class="record-time">6.26m</div>
+        </div>
+        <div class="record-item">
+          <div>
+            <div style="font-weight: bold;">800m (Kvinnor)</div>
+            <div style="font-size: 0.875rem; color: var(--color-text-secondary);">Jarmila Kratochvílová
+              (TCH)</div>
+          </div>
+          <div class="record-time">1:53.28</div>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top: 1rem;">
+        <h2>Svenska Rekord (F17)</h2>
+        <p style="color: var(--color-text-secondary);">Här kommer listan från friidrottsstatistik.se...</p>
+      </div>
+    </div>
+
+    <!-- RECORDS VIEW (Placeholder - kept for reference, but mainly replaced by the table above) -->
+    <div id="view-records" class="view-section">
+      <header>
+        <h1>Klubbrekord</h1>
+        <div class="subtitle">IFK Göteborg Friidrott</div>
+      </header>
+
+      <!-- Filters -->
+      <div style="display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap;">
+        <select
+          style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
+          <option>Kön: Kvinnor</option>
+          <option>Kön: Män</option>
+        </select>
+        <select
+          style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
+          <option>Ålder: Alla</option>
+          <option selected>Ålder: F16</option>
+          <option>Ålder: F17</option>
+          <option>Ålder: Senior</option>
+        </select>
+        <select
+          style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
+          <option>Gren: Alla Löpning</option>
+          <option>Gren: 800m</option>
+          <option>Gren: 1500m</option>
+        </select>
+        <select
+          style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
+          <option>Säsong: Utomhus</option>
+          <option>Säsong: Inomhus</option>
+        </select>
+      </div>
+
+      <!-- Records Table -->
+      <div class="card" style="overflow-x: auto;">
+        <table style="width: 100%; border-collapse: collapse; text-align: left;">
+          <thead>
+            <tr style="border-bottom: 1px solid #334155;">
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                Gren</th>
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                Resultat</th>
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                Namn</th>
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                Datum</th>
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                Plats</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Row 1 -->
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 1rem; font-weight: bold;">800m</td>
+              <td style="padding: 1rem; font-family: monospace; font-size: 1.1rem; color: var(--color-accent-gold);">
+                2:12.00</td>
+              <td style="padding: 1rem;">Lisa Larsson (08)</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">2024-05-18</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">Sollentuna</td>
+            </tr>
+            <!-- Row 2 -->
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 1rem; font-weight: bold;">1500m</td>
+              <td style="padding: 1rem; font-family: monospace; font-size: 1.1rem; color: var(--color-accent-gold);">
+                4:35.50</td>
+              <td style="padding: 1rem;">Karin Karlsson (07)</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">2023-08-20</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">Göteborg/U</td>
+            </tr>
+            <!-- Row 3 -->
+            <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+              <td style="padding: 1rem; font-weight: bold;">3000m</td>
+              <td style="padding: 1rem; font-family: monospace; font-size: 1.1rem; color: var(--color-accent-gold);">
+                10:15.10</td>
+              <td style="padding: 1rem;">Hanna Hansson (09)</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">2024-06-12</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">Mölndal</td>
+            </tr>
+            <!-- Row 4 -->
+            <tr>
+              <td style="padding: 1rem; font-weight: bold;">2000m Hinder</td>
+              <td style="padding: 1rem; font-family: monospace; font-size: 1.1rem; color: var(--color-accent-gold);">
+                7:20.00</td>
+              <td style="padding: 1rem;">Lisa Larsson (08)</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">2024-09-01</td>
+              <td style="padding: 1rem; color: var(--color-text-secondary);">Stockholm/S</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+
+</html>

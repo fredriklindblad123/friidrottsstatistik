@@ -1,0 +1,506 @@
+{
+  "last_updated": "2025-12-16T21:16:20.195470",
+  "count": 50,
+  "records": [
+    {
+      "rank": 1,
+      "result": "2:08.50",
+      "name": "Elsa Elitson",
+      "birth_year": 2009,
+      "club": "Annan Klubb",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 2,
+      "result": "2:09.10",
+      "name": "Sara Snabb",
+      "birth_year": 2009,
+      "club": "Annan Klubb",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 3,
+      "result": "2:09.80",
+      "name": "Klara Kanon",
+      "birth_year": 2009,
+      "club": "Annan Klubb",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 4,
+      "result": "2:10.05",
+      "name": "Maja Mästare",
+      "birth_year": 2009,
+      "club": "Annan Klubb",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 5,
+      "result": "2:10.50",
+      "name": "Anna Andersson",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 6,
+      "result": "2:11.20",
+      "name": "Julia Junior",
+      "birth_year": 2009,
+      "club": "Annan Klubb",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 7,
+      "result": "2:11.66",
+      "name": "Löpare 7",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 8,
+      "result": "2:11.87",
+      "name": "Löpare 8",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 9,
+      "result": "2:12.37",
+      "name": "Löpare 9",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 10,
+      "result": "2:13.03",
+      "name": "Löpare 10",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 11,
+      "result": "2:13.40",
+      "name": "Löpare 11",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 12,
+      "result": "2:14.10",
+      "name": "Löpare 12",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 13,
+      "result": "2:14.40",
+      "name": "Löpare 13",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 14,
+      "result": "2:14.97",
+      "name": "Löpare 14",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 15,
+      "result": "2:15.75",
+      "name": "Löpare 15",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 16,
+      "result": "2:16.11",
+      "name": "Löpare 16",
+      "birth_year": 2009,
+      "club": "Malmö AI",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 17,
+      "result": "2:16.58",
+      "name": "Löpare 17",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 18,
+      "result": "2:16.86",
+      "name": "Löpare 18",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 19,
+      "result": "2:17.55",
+      "name": "Löpare 19",
+      "birth_year": 2009,
+      "club": "Malmö AI",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 20,
+      "result": "2:17.74",
+      "name": "Löpare 20",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 21,
+      "result": "2:18.19",
+      "name": "Löpare 21",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 22,
+      "result": "2:18.66",
+      "name": "Löpare 22",
+      "birth_year": 2009,
+      "club": "Malmö AI",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 23,
+      "result": "2:19.38",
+      "name": "Löpare 23",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 24,
+      "result": "2:20.06",
+      "name": "Löpare 24",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 25,
+      "result": "2:20.76",
+      "name": "Löpare 25",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 26,
+      "result": "2:20.94",
+      "name": "Löpare 26",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 27,
+      "result": "2:21.41",
+      "name": "Löpare 27",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 28,
+      "result": "2:22.15",
+      "name": "Löpare 28",
+      "birth_year": 2009,
+      "club": "Malmö AI",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 29,
+      "result": "2:22.87",
+      "name": "Löpare 29",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 30,
+      "result": "2:23.24",
+      "name": "Löpare 30",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 31,
+      "result": "2:23.62",
+      "name": "Löpare 31",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 32,
+      "result": "2:24.21",
+      "name": "Löpare 32",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 33,
+      "result": "2:24.74",
+      "name": "Löpare 33",
+      "birth_year": 2009,
+      "club": "Malmö AI",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 34,
+      "result": "2:25.01",
+      "name": "Löpare 34",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 35,
+      "result": "2:25.29",
+      "name": "Löpare 35",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 36,
+      "result": "2:25.68",
+      "name": "Löpare 36",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 37,
+      "result": "2:26.20",
+      "name": "Löpare 37",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 38,
+      "result": "2:26.34",
+      "name": "Löpare 38",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 39,
+      "result": "2:27.02",
+      "name": "Löpare 39",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 40,
+      "result": "2:27.16",
+      "name": "Löpare 40",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 41,
+      "result": "2:27.57",
+      "name": "Löpare 41",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 42,
+      "result": "2:27.93",
+      "name": "Löpare 42",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 43,
+      "result": "2:28.03",
+      "name": "Löpare 43",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 44,
+      "result": "2:28.24",
+      "name": "Löpare 44",
+      "birth_year": 2009,
+      "club": "Malmö AI",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 45,
+      "result": "2:28.64",
+      "name": "Löpare 45",
+      "birth_year": 2009,
+      "club": "Turebergs FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 46,
+      "result": "2:28.86",
+      "name": "Löpare 46",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 47,
+      "result": "2:29.04",
+      "name": "Löpare 47",
+      "birth_year": 2009,
+      "club": "Hässelby SK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 48,
+      "result": "2:29.52",
+      "name": "Löpare 48",
+      "birth_year": 2009,
+      "club": "IFK Göteborg",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 49,
+      "result": "2:29.68",
+      "name": "Löpare 49",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    },
+    {
+      "rank": 50,
+      "result": "2:29.80",
+      "name": "Löpare 50",
+      "birth_year": 2009,
+      "club": "Ullevi FK",
+      "date": "2024-06-15",
+      "location": "Sollentuna",
+      "age_class": "F15"
+    }
+  ]
+}
