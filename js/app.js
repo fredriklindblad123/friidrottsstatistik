@@ -14,7 +14,9 @@ function switchTab(tabId) {
 
     // Load data if switching to records view
     // Load data if switching to records view
-    if (tabId === 'records') {
+    // Load data if switching to records view
+    // Load data if switching to records view
+    if (tabId === 'national') {
         fetchSvenskaRecords();
     } else {
         // Default to Year's Best if not already loaded
@@ -31,7 +33,9 @@ async function fetchRecords() {
         if (!response.ok) throw new Error('Failed to load data');
         const data = await response.json();
         allRecords = data.records; // Store globally
-        renderRecords(allRecords);
+        allRecords = data.records; // Store globally
+        setupFilters();
+        applyFilters();
         updateDashboardRank(allRecords);
     } catch (error) {
         console.error('Error fetching records:', error);
@@ -70,25 +74,59 @@ function renderSvenskaRecords(records) {
 }
 
 
+
+function setupFilters() {
+    ['filter-gender', 'filter-age', 'filter-event', 'filter-season'].forEach(id => {
+        document.getElementById(id).addEventListener('change', applyFilters);
+    });
+}
+
+function applyFilters() {
+    const gender = document.getElementById('filter-gender').value;
+    const age = document.getElementById('filter-age').value;
+    const event = document.getElementById('filter-event').value;
+    const season = document.getElementById('filter-season').value;
+
+    const filtered = allRecords.filter(r => {
+        // Gender (strict match)
+        if (gender !== 'all' && r.gender !== gender) return false;
+
+        // Age (partial match logic needed? or strict?)
+        // Scraper uses "F17", "P17", "M", "K".
+        // Filter values: "17", "Senior", "all"
+        if (age !== 'all') {
+            if (age === 'Senior') {
+                if (r.age_class !== 'M' && r.age_class !== 'K') return false;
+            } else {
+                // Check if age class contains the number (e.g. "P17" contains "17")
+                if (!r.age_class.includes(age)) return false;
+            }
+        }
+
+        // Event
+        if (event !== 'all' && r.event !== event) return false;
+
+        // Season
+        if (season !== 'both' && r.season !== season) return false;
+
+        return true;
+    });
+
+    renderRecords(filtered);
+}
+
 function renderRecords(records) {
     const tbody = document.querySelector('#view-records tbody');
     if (!tbody) return;
-    tbody.innerHTML = ''; // Clear existing static rows
+    tbody.innerHTML = '';
 
-    // Sort by Result (assuming format M:SS.ms)
-    // Simple string sort works for same format, but ideally parse time.
-    // Assuming data is already 'Top List' sorted from scraper.
-
-    records.forEach(record => {
-        // Only show 2024 records in the main list (filter out the history we injected)
-        if (!record.date.startsWith('2024')) return;
-
+    // Limit to 100 to avoid freezing DOM
+    records.slice(0, 100).forEach(record => {
         const row = document.createElement('tr');
         row.style.borderBottom = '1px solid rgba(255,255,255,0.05)';
-        row.onclick = () => showAthleteProfile(record.name); // Make clickable
+        row.onclick = () => showAthleteProfile(record.name);
         row.style.cursor = 'pointer';
 
-        // Highlight logic
         const isMe = record.name === "Anna Andersson";
         if (isMe) {
             row.style.backgroundColor = 'rgba(14, 165, 233, 0.1)';
@@ -99,15 +137,23 @@ function renderRecords(records) {
             <td style="padding: 1rem; font-weight: bold;">
                 <span style="color: ${isMe ? 'var(--color-accent)' : '#94a3b8'}; font-family: var(--font-display);">#${record.rank}</span>
             </td>
+            <td style="padding: 1rem; font-weight: bold; color: var(--color-accent);">${record.event}</td>
             <td style="padding: 1rem; font-family: monospace; font-size: 1.1rem; color: var(--color-accent-gold);">${record.result}</td>
             <td style="padding: 1rem; font-weight: ${isMe ? 'bold' : 'normal'}; color: ${isMe ? 'white' : 'inherit'};">
-                ${record.name} <span style="color: #64748b; font-size: 0.9em;">(${record.club})</span>
+                ${record.name}
             </td>
+            <td style="padding: 1rem; color: var(--color-text-secondary);">${record.club}</td>
             <td style="padding: 1rem; color: var(--color-text-secondary);">${record.date}</td>
             <td style="padding: 1rem; color: var(--color-text-secondary);">${record.location}</td>
         `;
         tbody.appendChild(row);
     });
+
+    if (records.length === 0) {
+        if (records.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="7" style="padding: 2rem; text-align: center; color: #94a3b8;">Inga resultat hittades för valda filter.</td></tr>';
+        }
+    }
 }
 
 function updateDashboardRank(records) {

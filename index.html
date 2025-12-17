@@ -17,8 +17,8 @@
       <span class="logo">Track Stats</span>
       <div class="nav-links">
         <a href="#" onclick="switchTab('dashboard')" id="nav-dashboard" class="active">Dashboard</a>
-        <a href="#" onclick="switchTab('records')" id="nav-records">Klubbrekord</a>
-        <a href="#" onclick="switchTab('national')" id="nav-national">Sv/Världen</a>
+        <a href="#" onclick="switchTab('records')" id="nav-records">Sverigetoppen</a>
+        <a href="#" onclick="switchTab('national')" id="nav-national">Sv. Rekord</a>
         <a href="#" onclick="switchTab('athletes')" id="nav-athletes">Atleter</a>
       </div>
     </div>
@@ -272,34 +272,45 @@
     <!-- RECORDS VIEW (Placeholder - kept for reference, but mainly replaced by the table above) -->
     <div id="view-records" class="view-section">
       <header>
-        <h1>Klubbrekord</h1>
-        <div class="subtitle">IFK Göteborg Friidrott</div>
+        <h1>Sverigetoppen</h1>
+        <div class="subtitle">Årsbästa 2025/2026</div>
       </header>
 
       <!-- Filters -->
       <div style="display: flex; gap: 1rem; margin-bottom: 2rem; flex-wrap: wrap;">
-        <select
+        <select id="filter-gender"
           style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
-          <option>Kön: Kvinnor</option>
-          <option>Kön: Män</option>
+          <option value="all">Kön: Alla</option>
+          <option value="K">Kön: Kvinnor</option>
+          <option value="M">Kön: Män</option>
         </select>
-        <select
+        <select id="filter-age"
           style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
-          <option>Ålder: Alla</option>
-          <option selected>Ålder: F16</option>
-          <option>Ålder: F17</option>
-          <option>Ålder: Senior</option>
+          <option value="all">Ålder: Alla</option>
+          <option value="Senior">Ålder: Senior</option>
+          <option value="19">Ålder: 19</option>
+          <option value="17">Ålder: 17</option>
+          <option value="16">Ålder: 16</option>
+          <option value="15">Ålder: 15</option>
         </select>
-        <select
+        <select id="filter-event"
           style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
-          <option>Gren: Alla Löpning</option>
-          <option>Gren: 800m</option>
-          <option>Gren: 1500m</option>
+          <option value="all">Gren: Alla</option>
+          <option value="60m">60m</option>
+          <option value="100m">100m</option>
+          <option value="200m">200m</option>
+          <option value="400m">400m</option>
+          <option value="800m">800m</option>
+          <option value="1500m">1500m</option>
+          <option value="3000m">3000m</option>
+          <option value="5000m">5000m</option>
         </select>
-        <select
+        <select id="filter-season"
           style="background: var(--color-bg-card); color: white; border: 1px solid #334155; padding: 0.5rem 1rem; border-radius: 0.375rem; font-family: var(--font-main);">
-          <option>Säsong: Utomhus</option>
-          <option>Säsong: Inomhus</option>
+          <option value="both">Säsong: Alla</option>
+          <option value="2026">2026</option>
+          <option value="2025" selected>2025</option>
+          <option value="2024">2024</option>
         </select>
       </div>
 
@@ -310,6 +321,9 @@
             <tr style="border-bottom: 1px solid #334155;">
               <th
                 style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                #</th>
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
                 Gren</th>
               <th
                 style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
@@ -317,6 +331,9 @@
               <th
                 style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
                 Namn</th>
+              <th
+                style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
+                Klubb</th>
               <th
                 style="padding: 1rem; color: var(--color-text-secondary); text-transform: uppercase; font-size: 0.75rem;">
                 Datum</th>
