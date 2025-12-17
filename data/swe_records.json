@@ -1,0 +1,2091 @@
+{
+  "updated": "2025-12-17 09:13:25",
+  "records": [
+    {
+      "category": "M",
+      "event": "100 m100 m10.08",
+      "result": "Henrik Larsson99, IF Göta",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "200 m200 m20.30",
+      "result": "Johan Wissman82, IFK Helsingborg",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "400 m400 m44.56",
+      "result": "Johan Wissman82, IFK Helsingborg",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "800 m800 m1:43.13",
+      "result": "Andreas Kramer97, Ullevi",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1000 m1000 m2:16.55",
+      "result": "Samuel Pihlström01, Hälle",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "#2:14.96",
+      "result": "Andreas Kramer97, Djurgården",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1500 m1500 m3:32.00",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "#3:30.87",
+      "result": "Samuel Pihlström01, Hälle",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1 mile1 mile3:49.70",
+      "result": "Samuel Pihlström01, Hälle",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "2000 m2000 m4:59.71",
+      "result": "Kalle Berglund96, Spårvägen",
+      "name": "96",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "3000 m3000 m7:31.42",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "5000 m5000 m12:44.27",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "10 000 m10 000 m26:52.87",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1 timme1 timme20.128",
+      "result": "Emil Millán de la Oliva01, Eskilstuna FI",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "5 km väg5 km väg13:05",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "10 km väg10 km väg26:53",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "HalvmaratonH-maraton58:41",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "MaratonMaraton2:05:57",
+      "result": "Suldan Hassan98, Ullevi",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "100 km100 km6:20:51",
+      "result": "Olle Meijer98, Hälle",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "24 timmar24 timmar284.669",
+      "result": "Elov Olsson89, Ockelbo",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "3000 m hinder3000 m H8:05.75",
+      "result": "Mustafa Mohamed79, Hälle",
+      "name": "79",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "110 m häck110 m häck13.35",
+      "result": "Robert Kronberg76, Kville",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "400 m häck400 m häck47.94",
+      "result": "Carl Bengtström00, Örgryte",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "HöjdHöjd2.42",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "StavStav6.30",
+      "result": "Armand Duplantis99, Upsala IF",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "LängdLängd8.44",
+      "result": "Michel Tornéus86, Hammarby",
+      "name": "86",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "TrestegTresteg17.79",
+      "result": "Christian Olsson80, Örgryte",
+      "name": "80",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "KulaKula21.33",
+      "result": "Hans Höglund52, Mölndals AIK",
+      "name": "52",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "DiskusDiskus71.86",
+      "result": "Daniel Ståhl92, Spårvägen",
+      "name": "92",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "SläggaSlägga80.14",
+      "result": "Tore Gustafsson62, Mölndal",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "SpjutSpjut89.10",
+      "result": "Patrik Bodén67, IF Göta",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "TiokampTiokamp8.406",
+      "result": "Nicklas Wiberg85, Kalmarsund",
+      "name": "85",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m100 m11.16",
+      "result": "Linda Haglund56, Hanviken",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m22.69",
+      "result": "Julia Henriksson00, Malmö",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m51.13",
+      "result": "Moa Hjelmer90, Spårvägen",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m1:58.77",
+      "result": "Lovisa Lindh91, Ullevi",
+      "name": "91",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1000 m1000 m2:35.15",
+      "result": "Lovisa Lindh91, Ullevi",
+      "name": "91",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m3:56.60",
+      "result": "Abeba Aregawi90, Hammarby",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1 mile1 mile4:23.07",
+      "result": "Abeba Aregawi90, Hammarby",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "2000 m2000 m5:47.17",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m8:37.50",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5000 m5000 m14:49.95",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "10 000 m10 000 m31:08.05",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1 timme1 timme17.955",
+      "result": "Sarah Lahti95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5 km väg5 km väg15:04",
+      "result": "Meraf Bahta89, Ullevi",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "15:04",
+      "result": "Sarah Lahti95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "10 km väg10 km väg30:58",
+      "result": "Sarah Lahti95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HalvmaratonH-maraton1:08:19",
+      "result": "Sarah Lahti95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "MaratonMaraton2:23:41",
+      "result": "Isabellah Andersson80, Hässelby",
+      "name": "80",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 km100 km7:20:48",
+      "result": "Kajsa Berg79, Huddinge AIS",
+      "name": "79",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "24 timmar24 timmar#250.647",
+      "result": "Maria Jansson85, Kvarnsveden",
+      "name": "85",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m hinder3000 m H9:23.96",
+      "result": "Charlotta Fougberg85, Ullevi",
+      "name": "85",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m häck100 m häck12.47",
+      "result": "Ludmila Engquist64, Lidingö",
+      "name": "64",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "12.47",
+      "result": "Ludmila Engquist64, Lidingö",
+      "name": "64",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m häck400 m häck54.15",
+      "result": "Ann-Louise Skoglund62, IF Göta",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd2.06",
+      "result": "Kajsa Bergqvist76, Tureberg",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav4.83",
+      "result": "Michaela Meijer93, Örgryte",
+      "name": "93",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd6.99",
+      "result": "Erica Johansson74, Mölndal",
+      "name": "74",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg14.29",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula19.66",
+      "result": "Fanny Roos95, Malmö",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "DiskusDiskus66.61",
+      "result": "Vanessa Kamga98, Hässelby",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SläggaSlägga73.31",
+      "result": "Thea Löfman03, Malmö",
+      "name": "03",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SpjutSpjut61.96",
+      "result": "Sofi Flink95, Västerås FK",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SjukampSjukamp7.032",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "2000 m2000 m5:37.12",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5:46.7m+",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5:47.1m+",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "50 m50 m5.83",
+      "result": "Stefan Nilsson54, KA 2 IF",
+      "name": "54",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "60 m60 m6.52",
+      "result": "Henrik Larsson99, IF Göta",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "200 m200 m20.43",
+      "result": "Erik Erlandsson04, Malmö",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "20.43",
+      "result": "Erik Erlandsson04, Malmö",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "400 m400 m45.33",
+      "result": "Carl Bengtström00, Örgryte",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "800 m800 m1:45.09",
+      "result": "Andreas Kramer97, Ullevi",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1000 m1000 m2:20.56",
+      "result": "Torbjörn Johansson70, Malmö",
+      "name": "70",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1500 m1500 m3:35.47",
+      "result": "Samuel Pihlström01, Hälle",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1 mile1 mile3:54.78",
+      "result": "Samuel Pihlström01, Hälle",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "3000 m3000 m7:34.31",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "5000 m5000 m13:39.71",
+      "result": "Mustafa Mohamed79, Hälle",
+      "name": "79",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "50 m häck50 m häck6.46",
+      "result": "Robert Kronberg76, IF Kville",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "60 m häck60 m häck7.54",
+      "result": "Robert Kronberg76, IF Kville",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "HöjdHöjd2.41",
+      "result": "Patrik Sjöberg65, Örgryte IS",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "StavStav6.27",
+      "result": "Armand Duplantis99, Upsala IF",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "LängdLängd8.38",
+      "result": "Thobias Montler96, Ullevi",
+      "name": "96",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "TrestegTresteg17.83",
+      "result": "Christian Olsson80, Örgryte",
+      "name": "80",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "KulaKula21.49",
+      "result": "Wictor Petersson98, Malmö",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "SjukampSjukamp6.142",
+      "result": "Henrik Dagård69, Hässelby",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1000 m1000 m2:20.55",
+      "result": "Viktor Idhammar03, Hälle",
+      "name": "03",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "60 m häck60 m häck7.54",
+      "result": "Robert Kronberg76, IF Kville",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "50 m50 m6.17",
+      "result": "Linda Haglund56, Hanvikens SK",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "6.17",
+      "result": "Linda Haglund56, Hanvikens SK",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m60 m7.13",
+      "result": "Linda Haglund56, Hanvikens SK",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "7.13",
+      "result": "Linda Haglund56, Hanvikens SK",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m22.84",
+      "result": "Julia Henriksson00, Malmö",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m52.04",
+      "result": "Moa Hjelmer90, Spårvägens FK",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m2:00.01",
+      "result": "Maria Akraka66, Rånäs",
+      "name": "66",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1000 m1000 m2:38.11",
+      "result": "Malin Ewerlöf72, Spårvägen",
+      "name": "72",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m3:57.91",
+      "result": "Abeba Aregawi90, Hammarby IF",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1 mile1 mile4:23.68",
+      "result": "Yolanda Ngarambe91, Tureberg",
+      "name": "91",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m8:42.46",
+      "result": "Meraf Bahta89, Hälle",
+      "name": "89",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5000 m5000 m15:06.49",
+      "result": "Sara Wedlund75, Hässelby SK",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "50 m häck50 m häck6.67+",
+      "result": "Susanna Kallur81, Falu IK",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m häck60 m häck7.68",
+      "result": "Susanna Kallur81, Falu IK",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd2.08",
+      "result": "Kajsa Bergqvist76, Tureberg",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav4.81",
+      "result": "Angelica Bengtsson93, Hässelby",
+      "name": "93",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd6.92",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "6.92",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "6.92",
+      "result": "Khaddi Sagnia94, Ullevi",
+      "name": "94",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg14.12",
+      "result": "Camilla Johansson76, IFK Växjö",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula19.31",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#19.72",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#19.48",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#19.57",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#19.66",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "FemkampFemkamp4.948",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m100 m10.20",
+      "result": "Henrik Larsson99, IF Göta",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m20.43",
+      "result": "Johan Wissman82, Helsingborg",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m45.57",
+      "result": "Johan Wissman82, Helsingborg",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m1:45.03",
+      "result": "Andreas Kramer97, Sävedalen",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1:45.03",
+      "result": "Andreas Kramer97, Sävedalen",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m3:36.06",
+      "result": "Samuel Pihlström01, Hälle",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5000 m5000 m13:18.01",
+      "result": "Suldan Hassan98, Ullevi",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "10 000 m10 000 m28:19.68",
+      "result": "Hans Segerfeldt60, Heleneholm",
+      "name": "60",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m hinder3000 m H8:25.35",
+      "result": "Simon Sundström98, Lidingö",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "110 m häck110 m häck13.50",
+      "result": "Philip Nossmy82, Malmö",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m häck400 m häck48.52",
+      "result": "Niklas Wallenlind68, Mölndal",
+      "name": "68",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "48.52",
+      "result": "Carl Bengtström00, Örgryte",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd2.42",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav6.15",
+      "result": "Armand Duplantis99, Upsala IF",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd8.10",
+      "result": "Thobias Nilsson Montler96, Malmö",
+      "name": "96",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg17.64",
+      "result": "Christian Olsson80, Örgryte",
+      "name": "80",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula20.94",
+      "result": "Wictor Petersson98, Malmö",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "DiskusDiskus66.89",
+      "result": "Daniel Ståhl92, Spårvägen",
+      "name": "92",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SläggaSlägga77.00",
+      "result": "Ragnar Carlsson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SpjutSpjut82.28",
+      "result": "Patrik Bodén67, IF Göta",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TiokampTiokamp8.172",
+      "result": "Fredrik Samuelsson95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m100 m11.18",
+      "result": "Linda Haglund56, Hanviken",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m22.88",
+      "result": "Nora Lindahl04, Hässelby",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m51.13",
+      "result": "Moa Hjelmer90, Spårvägen",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m2:00.71",
+      "result": "Jill McCabe62, Malmö",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m4:05.39",
+      "result": "Mia Barnett03, Hälle",
+      "name": "03",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5000 m5000 m15:06.90",
+      "result": "Sara Wedlund75, Hässelby",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "10 000 m10 000 m31:28.43",
+      "result": "Sarah Lahti95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m hinder3000 m H9:46.53",
+      "result": "Ebba Cronholm05, Ljungby",
+      "name": "05",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m häck100 m häck12.74",
+      "result": "Susanna Kallur81, Falun",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m häck400 m häck54.58",
+      "result": "Ann-Louise Skoglund62, IF Göta",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd1.97",
+      "result": "Emma Green84, Örgryte",
+      "name": "84",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav4.70",
+      "result": "Angelica Bengtsson93, Hässelby",
+      "name": "93",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd6.97",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg14.27",
+      "result": "Maja Åskag02, Råby-Rekarne",
+      "name": "02",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula18.57",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "DiskusDiskus60.01",
+      "result": "Vanessa Kamga98, Upsala IF",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SläggaSlägga73.31",
+      "result": "Thea Löfman03, Malmö",
+      "name": "03",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SpjutSpjut61.96",
+      "result": "Sofi Flink95, Västerås FK",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SjukampSjukamp7.001",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m60 m6.58",
+      "result": "Patrik Lövgren75, Heleneholm",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "6.58",
+      "result": "Patrik Lövgren75, Heleneholm",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m20.43",
+      "result": "Erik Erlandsson04, Malmö",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "20.43",
+      "result": "Erik Erlandsson04, Malmö",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m45.33",
+      "result": "Carl Bengtström00, Örgryte",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m1:46.52",
+      "result": "Andreas Kramer97, Sävedalen",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m3:37.69",
+      "result": "Kalle Berglund96, Spårvägen",
+      "name": "96",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m7:51.61",
+      "result": "Claes Nyberg71, Mölndal",
+      "name": "71",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m häck60 m häck7.67",
+      "result": "Robert Kronberg76, Kville",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd2.41",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav6.18",
+      "result": "Armand Duplantis99, Upsala IF",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd8.05",
+      "result": "Mattias Sunneborn70, Malmö",
+      "name": "70",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg17.80",
+      "result": "Christian Olsson80, Örgryte",
+      "name": "80",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula21.24",
+      "result": "Sören Tallhem64, Matteuspojkarna",
+      "name": "64",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "ViktVikt23.52",
+      "result": "Ragnar Carlsson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SjukampSjukamp6.015",
+      "result": "Fredrik Samuelsson95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m60 m7.13",
+      "result": "Linda Haglund56, Hanviken",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m23.00",
+      "result": "Nora Lindahl04, Hässelby",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m52.29",
+      "result": "Moa Hjelmer90, Spårvägen",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m2:02.88",
+      "result": "Jill McCabe62, Malmö AI",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m4:11.68",
+      "result": "Sarah Lahti95, Hässelby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m8:50.32",
+      "result": "Sara Wedlund75, Hässelby",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m häck60 m häck7.90",
+      "result": "Susanna Kallur81, Falun",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd1.96",
+      "result": "Emma Green84, Örgryte",
+      "name": "84",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav4.70",
+      "result": "Angelica Bengtsson93, Hässelby",
+      "name": "93",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd6.92",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg14.09",
+      "result": "Emilia Sjöstrand02, Hellas",
+      "name": "02",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula18.23",
+      "result": "Axelina Johansson00, Hässelby",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "ViktVikt22.63",
+      "result": "Patricia Kamga06, Upsala IF",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#22.70",
+      "result": "Patricia Kamga06, Upsala IF",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "FemkampFemkamp4.948",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m100 m10.22",
+      "result": "Henrik Larsson99, IF Göta",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m20.75",
+      "result": "Johan Engberg81, Finspångs AIK",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m46.07",
+      "result": "Rikard Rasmusson74, Heleneholm",
+      "name": "74",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m1:45.65",
+      "result": "Andreas Almgren95, Tureberg",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1000 m1000 m2:20.63",
+      "result": "Kalle Berglund96, Spårvägen",
+      "name": "96",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m3:37.06",
+      "result": "Jonathan Grahn04, Mölndal",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1 mile1 mile4:01.9m",
+      "result": "Anders Gärderud46, Lidingö",
+      "name": "46",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m7:43.38",
+      "result": "Jonathan Grahn04, Mölndal",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5000 m5000 m13:29.59",
+      "result": "Emil Millán de la Oliva01, Eskilstuna FI",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "10 000 m10 000 m28:23.21",
+      "result": "Emil Millán de la Oliva01, Eskilstuna FI",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m hinder3000 m H8:34.84",
+      "result": "Anders Carlson59, IK Orient",
+      "name": "59",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "110 m häck (99.1)110 m h (99.1)13.39",
+      "result": "Philip Nossmy82, Malmö",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m häck400 m häck50.15",
+      "result": "Oskar Edlund02, Täby",
+      "name": "02",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd2.33",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "2.33",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "2.33",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav6.05",
+      "result": "Armand Duplantis99, Upsala IF",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd7.95",
+      "result": "Matias Ghansah74, Malmö",
+      "name": "74",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg16.43",
+      "result": "Gabriel Wallmark02, Örgryte",
+      "name": "02",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Kula (6.0)Kula (6.0)21.11",
+      "result": "Magnus Lohse84, Mölndal",
+      "name": "84",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Diskus (1.75)Diskus (1.75)62.58",
+      "result": "Jakob Gardenkrans97, Malmö",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Slägga (6.0)Slägga (6.0)77.62",
+      "result": "Ragnar Carlsson00, Falun",
+      "name": "00",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SpjutSpjut78.73",
+      "result": "Simon Litzell97, Hässelby",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Tiokamp (P19)Tiokamp (P19)8.057",
+      "result": "Leo Göransson05, Klippan",
+      "name": "05",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Diskus (1.75)Diskus (1.75)63.71",
+      "result": "Niklas Arrhenius82, Spårvägen",
+      "name": "82",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m100 m11.35",
+      "result": "Linda Haglund56, Hanviken",
+      "name": "56",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "11.35",
+      "result": "Irene Ekelund97, Kil",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m22.92",
+      "result": "Irene Ekelund97, Kil",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m52.23",
+      "result": "Ann-Louise Skoglund62, IF Göta",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m2:03.76",
+      "result": "Carmen Cernjul07, Spårvägen",
+      "name": "07",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1000 m1000 m2:47.11",
+      "result": "Saga Provci04, Djurgården",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m4:07.47",
+      "result": "Inger Knutsson55, Nynäshamns IF",
+      "name": "55",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1 mile1 mile4:43.29",
+      "result": "Saga Provci04, Djurgården",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m8:58.36",
+      "result": "Inger Knutsson55, Nynäshamns IF",
+      "name": "55",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "5000 m5000 m15:38.86",
+      "result": "Carmen Cernjul07, Spårvägen",
+      "name": "07",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "10 000 m10 000 m35:05.30",
+      "result": "Charlotte Sinclair88, IS Göta",
+      "name": "88",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m hinder3000 m H9:54.81",
+      "result": "Ebba Cronholm05, Ljungby",
+      "name": "05",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "100 m häck100 m häck13.02",
+      "result": "Susanna Kallur81, Falun",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m häck400 m häck56.00",
+      "result": "Ann-Louise Skoglund62, IF Göta",
+      "name": "62",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd1.92",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav4.60",
+      "result": "Lisa Gunnarsson99, Hässelby",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd6.73",
+      "result": "Tilde Johansson01, Falkenberg",
+      "name": "01",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg14.05",
+      "result": "Maja Åskag02, Råby-Rekarne",
+      "name": "02",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula16.29",
+      "result": "Fanny Roos95, Ljungby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "DiskusDiskus59.70",
+      "result": "Emma Sralla04, Spårvägen",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SläggaSlägga69.14",
+      "result": "Patricia Kamga06, Upsala IF",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SpjutSpjut61.96",
+      "result": "Sofi Flink95, Västerås FK",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "SjukampSjukamp6.542",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m60 m6.71",
+      "result": "Patrik Lövgren75, Heleneholm",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "200 m200 m20.79",
+      "result": "William Trulsson06, Malmö",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m47.04",
+      "result": "William Trulsson06, Malmö",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m1:47.85",
+      "result": "Andreas Kramer97, Sävedalen",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m3:40.55",
+      "result": "Jonathan Grahn04, Mölndal",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m7:54.66",
+      "result": "Jonathan Grahn04, Mölndal",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m häck (99.1)60 m h (99.1)7.64",
+      "result": "Max Hrelja98, Linköpings GIF",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd2.27",
+      "result": "Patrik Sjöberg65, Örgryte",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav5.88",
+      "result": "Armand Duplantis99, Upsala IF",
+      "name": "99",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd7.84",
+      "result": "Elias Kapell06, Hammarby",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg16.22",
+      "result": "Claes Rahm64, Gefle",
+      "name": "64",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Kula (6.0)Kula (6.0)20.47",
+      "result": "Wictor Petersson98, Malmö",
+      "name": "98",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Sjukamp (P19)Sjukamp (P19)5.833",
+      "result": "Elias Kapell06, Hammarby",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m60 m7.26",
+      "result": "Irene Ekelund97, Malmö",
+      "name": "97",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "400 m400 m53.78",
+      "result": "Moa Granat04, Vallentuna",
+      "name": "04",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "800 m800 m2:04.38",
+      "result": "Lova Perman03, IF Göta",
+      "name": "03",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1500 m1500 m4:11.70",
+      "result": "Malin Ewerlöf72, Södertälje IF",
+      "name": "72",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "3000 m3000 m9:08.42",
+      "result": "Carmen Cernjul07, Spårvägen",
+      "name": "07",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "60 m häck60 m häck8.10",
+      "result": "Susanna Kallur81, Falun",
+      "name": "81",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "HöjdHöjd1.92",
+      "result": "Kajsa Bergqvist76, Turebergs IF",
+      "name": "76",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "StavStav4.63",
+      "result": "Angelica Bengtsson93, Hässelby",
+      "name": "93",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "LängdLängd6.78",
+      "result": "Erica Johansson74, Mölndal",
+      "name": "74",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "TrestegTresteg13.67",
+      "result": "Maja Åskag02, Råby-Rekarne",
+      "name": "02",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "KulaKula15.87",
+      "result": "Fanny Roos95, Ljungby",
+      "name": "95",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "ViktVikt22.63",
+      "result": "Patricia Kamga06, Upsala IF",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#22.93",
+      "result": "Patricia Kamga06, Upsala IF",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "#22.70",
+      "result": "Patricia Kamga06, Upsala IF",
+      "name": "06",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "FemkampFemkamp4.535",
+      "result": "Carolina Klüft83, IFK Växjö",
+      "name": "83",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 5000 mGång 5000 m18:32.56",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 10 000 mGång 10 000 m37:57.02",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 20 000 mGång 20 000 m1:18:35.2m",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 50 000 mGång 50 000 m3:54:59.7m",
+      "result": "Bo Gustafsson54, IFK Göteborg",
+      "name": "54",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 20 kmGång 20 km1:17:39",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 35 kmGång 35 km2:23:44",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 50 kmGång 50 km3:44:49",
+      "result": "Bo Gustafsson54, IFK Göteborg",
+      "name": "54",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 50 kmGång 50 km3:44:35",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 5000 mGång 5000 m18:27.95",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 10 000 mGång 10 000 m40:40.47",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 20 kmGång 20 km1:23:15",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "1:23:43",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 50 kmGång 50 km3:53:34",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 5000 mGång 5000 m20:16.0m",
+      "result": "Perseus Karlström90, Eskilstuna FI",
+      "name": "90",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 5000 mGång 5000 m19:46.0m",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "19:52.84",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 5000 mGång 5000 m20:00.2m",
+      "result": "Tobias Persson75, Brunflo",
+      "name": "75",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 10 000 mGång 10 000 m41:12.6m",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 20 000 mGång 20 000 m1:27:17.9m",
+      "result": "Stefan Johansson67, Krogsered",
+      "name": "67",
+      "type": "SR"
+    },
+    {
+      "category": "M",
+      "event": "Gång 5000 mGång 5000 m21:30.7m",
+      "result": "Anders Hansson92, Svängen",
+      "name": "92",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 3000 mGång 3000 m12:25.1m",
+      "result": "Madelein Svensson69, Forsmo IF",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 5000 mGång 5000 m21:09.26",
+      "result": "Madelein Svensson69, Forsmo IF",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 10 000 mGång 10 000 m42:13.70",
+      "result": "Madelein Svensson69, Forsmo IF",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 20 kmGång 20 km1:33:37",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 20 kmGång 20 km1:31:20",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "1:32:51",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 50 kmGång 50 km4:10:59",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "4:14:38",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "4:17:29",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "4:22:20",
+      "result": "Monica Svensson78, Växjö AIS",
+      "name": "78",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 3000 mGång 3000 m12:14.01",
+      "result": "Madelein Svensson69, Forsmo IF",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 10 000 mGång 10 000 m44:23.4m",
+      "result": "Madelein Svensson69, Forsmo IF",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 3000 mGång 3000 m13:06.46",
+      "result": "Monica Gunnarsson65, Svängen",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 3000 mGång 3000 m12:46.0m",
+      "result": "Madelein Svensson69, Forsmo IF",
+      "name": "69",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 5000 mGång 5000 m23:01.1m",
+      "result": "Monica Gunnarsson65, Svängen",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 10 000 mGång 10 000 m47:58.0m",
+      "result": "Monica Gunnarsson65, Svängen",
+      "name": "65",
+      "type": "SR"
+    },
+    {
+      "category": "K",
+      "event": "Gång 3000 mGång 3000 m14:06.8m",
+      "result": "Jessica Franzén76, Svängen",
+      "name": "76",
+      "type": "SR"
+    }
+  ]
+}
